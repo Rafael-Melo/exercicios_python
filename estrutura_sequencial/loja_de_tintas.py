@@ -23,4 +23,4 @@ valor_com_galoes = numero_de_galoes *25
 
 valor_total = valor_de_latas + valor_com_galoes
 
-print(f'Você deverá usar {numero_de_latas} latas de 18 litros e mais {numero_de_galoes} galões de 3.6 litros, no valor de R$ {valor_total} para ter menos disperdício de tinta')
+print(f'Você deverá usar {numero_de_latas} latas de 18 litros e mais {numero_de_galoes} galões de 3.6 litros, no valor de R$ {valor_total} para ter o menor desperdício de tinta possível')
